@@ -4,8 +4,6 @@ Staterkit for react ts is an opinionated boilerplate for web development built o
 
 #### How to Start?
 ```
-Cloning the repo
-  git clone git@github.com:juztinlazaro/react-starter-kit-ts.git
 
 Development
   npm install
